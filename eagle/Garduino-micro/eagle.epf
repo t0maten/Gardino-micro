@@ -1,0 +1,40 @@
+[Eagle]
+Version="07 02 00"
+Platform="Windows"
+Serial="6E039A1D15-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/Adafruit/adafruit.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/GeekAmmo.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/LilyPad-Wearables.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-AnalogIC.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Boards.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Displays.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-FreqCtrl.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-LED.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Passives.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-PowerIC.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-RF.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Retired.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/SparkFun-Sensors.lbr"
+UsedLibrary="C:/Users/kfs/Documents/Arduino/Sketches/Gardino-micro/eagle/Lib/SparkFun/User-Submitted.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="266 80 1770 720"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
